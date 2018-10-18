@@ -1,5 +1,7 @@
 # PSQL_Debug
-Phalcon SQl Debug Bar for version 3.*.*
+Phalcon SQL Debug Bar for version 3.x.x<br/>
+Support Raw SQL, PHQL, replace phalcon placeholders<br/>
+It shows queries, queries execution time, highlights long and erroneous queries, plus small system information ...
 
 In public/index.php
 1. After <?php open tag add:
@@ -9,11 +11,11 @@ In public/index.php
 ```
 
 2. Into your config add variable:
-    ```php
-        ...
-        'sql_debug' => true //false
-        ...
-    ```
+```php
+    ...
+    'sql_debug' => true //false
+    ...
+```
 
 2. After echo $application->handle()->getContent(); add:
 ```php
