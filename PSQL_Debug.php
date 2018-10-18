@@ -2,7 +2,7 @@
 /**
  * @package    PSQL_Debug
  * @author     Igor Shkunov <carlos@66.ru>
- * @version    0.1.0
+ * @version    0.1.1
  * @date       29.10.17
  */
 

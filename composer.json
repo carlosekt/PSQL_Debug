@@ -3,7 +3,7 @@
   "description": "Phalcon SQL Debug Bar for version 3.x.x",
   "type": "library",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minimum-stability" : "stable",
   "authors": [
     {
