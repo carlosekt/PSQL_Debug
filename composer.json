@@ -1,0 +1,20 @@
+{
+  "name": "carlosekt/psql_debug",
+  "description": "Phalcon SQL Debug Bar for version 3.x.x",
+  "type": "library",
+  "license": "MIT",
+  "version": "0.1.0",
+  "minimum-stability" : "stable",
+  "authors": [
+    {
+      "name": "Igor Shkunov",
+      "email": "carlos@66.ru",
+      "role": "Developer"
+    }
+  ],
+  "homepage": "https://github.com/carlosekt/PSQL_Debug",
+  "require": {
+    "php": ">=5.6.0",
+    "ext-phalcon": ">=3.2"
+  }
+}

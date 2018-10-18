@@ -2,11 +2,11 @@
 /**
  * @package    PSQL_Debug
  * @author     Igor Shkunov <carlos@66.ru>
- * @version    0.1
+ * @version    0.1.0
  * @date       29.10.17
  */
 
-namespace CarlosEkt\PSQL_Debug;
+namespace CarlosEkt;
 
 use Phalcon\Di;
 
